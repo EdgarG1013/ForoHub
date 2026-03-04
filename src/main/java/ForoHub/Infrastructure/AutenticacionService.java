@@ -1,4 +1,4 @@
-package ForoHub.Infra;
+package ForoHub.Infrastructure;
 
 import ForoHub.Repository.UsuarioRepository;
 import lombok.RequiredArgsConstructor;

@@ -1,0 +1,101 @@
+2026.03.04 12:06:31 INFO  Started: Metals version 1.6.5 in folders 'C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub' for client Visual Studio Code 1.109.5.
+2026.03.04 12:06:31 INFO  Memory monitor started
+2026.03.04 12:06:35 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.04 12:07:21 WARN  no build target for: C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\main\java\ForoHub\Infrastructure\SecurityConfigurations.java
+2026.03.04 12:07:21 WARN  no build target for: C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\main\java\ForoHub\Repository\UsuarioRepository.java
+2026.03.04 12:07:21 WARN  no build target for: C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\main\java\ForoHub\Controller\AutenticacionController.java
+2026.03.04 12:07:21 WARN  no build target for: C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\main\java\ForoHub\Infrastructure\AutenticacionService.java
+2026.03.04 12:07:21 WARN  no build target for: C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\main\java\ForoHub\Infrastructure\SecurityFilter.java
+2026.03.04 12:07:21 WARN  no build target for: C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\main\java\ForoHub\Services\TokenService.java
+2026.03.04 12:07:21 WARN  no build target for: C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\main\java\ForoHub\Services\DatosAutenticacion.java
+2026.03.04 12:07:21 WARN  no build target for: C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\main\java\ForoHub\Repository\TopicoRepository.java
+2026.03.04 12:07:21 WARN  no build target for: C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\main\java\ForoHub\Domain\usuario\Usuario.java
+2026.03.04 12:07:21 WARN  no build target for: C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\main\java\ForoHub\Controller\TopicoController.java
+2026.03.04 12:07:21 WARN  no build target for: C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\main\java\ForoHub\ChallengeForoHubApplication.java
+2026.03.04 12:07:22 WARN  Running javac-semanticdb failed for file:///C:/Users/edgar/Desktop/Curso%20Oracle/4-Challenge-ForoHub/src/main/java/ForoHub/Repository/TopicoRepository.java. Output:
+
+2026.03.04 12:07:22 WARN  Running javac-semanticdb failed for file:///C:/Users/edgar/Desktop/Curso%20Oracle/4-Challenge-ForoHub/src/main/java/ForoHub/Infrastructure/AutenticacionService.java. Output:
+
+2026.03.04 12:07:23 WARN  Running javac-semanticdb failed for file:///C:/Users/edgar/Desktop/Curso%20Oracle/4-Challenge-ForoHub/src/main/java/ForoHub/Repository/UsuarioRepository.java. Output:
+
+2026.03.04 12:07:23 WARN  Running javac-semanticdb failed for file:///C:/Users/edgar/Desktop/Curso%20Oracle/4-Challenge-ForoHub/src/main/java/ForoHub/Infrastructure/SecurityConfigurations.java. Output:
+
+2026.03.04 12:07:23 WARN  Running javac-semanticdb failed for file:///C:/Users/edgar/Desktop/Curso%20Oracle/4-Challenge-ForoHub/src/main/java/ForoHub/Services/TokenService.java. Output:
+
+2026.03.04 12:07:24 WARN  Running javac-semanticdb failed for file:///C:/Users/edgar/Desktop/Curso%20Oracle/4-Challenge-ForoHub/src/main/java/ForoHub/Controller/TopicoController.java. Output:
+
+2026.03.04 12:07:24 WARN  Running javac-semanticdb failed for file:///C:/Users/edgar/Desktop/Curso%20Oracle/4-Challenge-ForoHub/src/main/java/ForoHub/Services/DatosAutenticacion.java. Output:
+
+2026.03.04 12:07:24 WARN  Running javac-semanticdb failed for file:///C:/Users/edgar/Desktop/Curso%20Oracle/4-Challenge-ForoHub/src/main/java/ForoHub/Infrastructure/SecurityFilter.java. Output:
+
+2026.03.04 12:07:25 WARN  Running javac-semanticdb failed for file:///C:/Users/edgar/Desktop/Curso%20Oracle/4-Challenge-ForoHub/src/main/java/ForoHub/Controller/AutenticacionController.java. Output:
+
+2026.03.04 12:07:25 WARN  Running javac-semanticdb failed for file:///C:/Users/edgar/Desktop/Curso%20Oracle/4-Challenge-ForoHub/src/main/java/ForoHub/Domain/usuario/Usuario.java. Output:
+
+2026.03.04 12:07:25 WARN  Running javac-semanticdb failed for file:///C:/Users/edgar/Desktop/Curso%20Oracle/4-Challenge-ForoHub/src/main/java/ForoHub/ChallengeForoHubApplication.java. Output:
+
+2026.03.04 12:07:50 INFO  skipping build import with status 'Dismissed'
+2026.03.04 12:09:10 INFO  no build target found for C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\main\java\ForoHub\Controller\AutenticacionController.java. Using fallback presentation compiler.
+2026.03.04 12:09:19 INFO  no build target found for C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\main\java\ForoHub\Infrastructure\SecurityConfigurations.java. Using fallback presentation compiler.
+2026.03.04 12:09:25 INFO  no build target found for C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\main\java\ForoHub\Services\DatosAutenticacion.java. Using fallback presentation compiler.
+2026.03.04 12:09:25 INFO  no build target found for C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\main\java\ForoHub\Infrastructure\SecurityFilter.java. Using fallback presentation compiler.
+2026.03.04 12:09:30 INFO  no build target found for C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\main\java\ForoHub\Services\TokenService.java. Using fallback presentation compiler.
+2026.03.04 12:09:30 INFO  no build target found for C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\main\java\ForoHub\Domain\usuario\Usuario.java. Using fallback presentation compiler.
+2026.03.04 12:09:30 INFO  no build target found for C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\main\java\ForoHub\ChallengeForoHubApplication.java. Using fallback presentation compiler.
+2026.03.04 12:09:41 INFO  no build target found for C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\main\java\ForoHub\Infrastructure\AutenticacionService.java. Using fallback presentation compiler.
+2026.03.04 12:09:47 INFO  no build target found for C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\main\java\ForoHub\Repository\UsuarioRepository.java. Using fallback presentation compiler.
+2026.03.04 12:09:47 INFO  no build target found for C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\main\java\ForoHub\Repository\TopicoRepository.java. Using fallback presentation compiler.
+2026.03.04 12:09:52 INFO  no build target found for C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\main\java\ForoHub\Controller\TopicoController.java. Using fallback presentation compiler.
+2026.03.04 12:14:48 WARN  no build target for: C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\test\java\ForoHub\ChallengeForoHubApplicationTests.java
+2026.03.04 12:14:52 WARN  Running javac-semanticdb failed for file:///C:/Users/edgar/Desktop/Curso%20Oracle/4-Challenge-ForoHub/src/test/java/ForoHub/ChallengeForoHubApplicationTests.java. Output:
+
+2026.03.04 12:14:55 INFO  no build target found for C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\test\java\ForoHub\ChallengeForoHubApplicationTests.java. Using fallback presentation compiler.
+2026.03.04 12:14:55 INFO  no build target found for C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\test\java\ForoHub\ChallengeForoHubApplicationTests.java. Using fallback presentation compiler.
+2026.03.04 12:14:55 INFO  no build target found for C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\test\java\ForoHub\ChallengeForoHubApplicationTests.java. Using fallback presentation compiler.
+2026.03.04 12:14:55 INFO  no build target found for C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\test\java\ForoHub\ChallengeForoHubApplicationTests.java. Using fallback presentation compiler.
+2026.03.04 12:14:55 INFO  no build target found for C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\test\java\ForoHub\ChallengeForoHubApplicationTests.java. Using fallback presentation compiler.
+2026.03.04 12:14:55 WARN  no build target for: C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\main\java\ForoHub\Controller\AutenticacionController.java
+2026.03.04 12:14:56 WARN  Running javac-semanticdb failed for file:///C:/Users/edgar/Desktop/Curso%20Oracle/4-Challenge-ForoHub/src/main/java/ForoHub/Controller/AutenticacionController.java. Output:
+
+2026.03.04 12:14:56 INFO  no build target found for C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\main\java\ForoHub\Controller\AutenticacionController.java. Using fallback presentation compiler.
+2026.03.04 12:14:56 INFO  no build target found for C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\main\java\ForoHub\Controller\AutenticacionController.java. Using fallback presentation compiler.
+2026.03.04 12:14:56 INFO  no build target found for C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\test\java\ForoHub\ChallengeForoHubApplicationTests.java. Using fallback presentation compiler.
+2026.03.04 12:14:56 INFO  no build target found for C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\test\java\ForoHub\ChallengeForoHubApplicationTests.java. Using fallback presentation compiler.
+2026.03.04 12:14:56 INFO  no build target found for C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\test\java\ForoHub\ChallengeForoHubApplicationTests.java. Using fallback presentation compiler.
+2026.03.04 12:14:56 INFO  no build target found for C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\main\java\ForoHub\Controller\AutenticacionController.java. Using fallback presentation compiler.
+2026.03.04 12:14:56 WARN  no build target for: C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\main\java\ForoHub\Controller\TopicoController.java
+2026.03.04 12:14:57 WARN  Running javac-semanticdb failed for file:///C:/Users/edgar/Desktop/Curso%20Oracle/4-Challenge-ForoHub/src/main/java/ForoHub/Controller/TopicoController.java. Output:
+
+2026.03.04 12:14:57 INFO  no build target found for C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\main\java\ForoHub\Controller\TopicoController.java. Using fallback presentation compiler.
+2026.03.04 12:14:57 INFO  no build target found for C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\main\java\ForoHub\Controller\TopicoController.java. Using fallback presentation compiler.
+2026.03.04 12:14:57 INFO  no build target found for C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\main\java\ForoHub\Controller\TopicoController.java. Using fallback presentation compiler.
+2026.03.04 12:14:58 WARN  no build target for: C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\main\java\ForoHub\Infrastructure\SecurityConfigurations.java
+2026.03.04 12:14:58 WARN  Running javac-semanticdb failed for file:///C:/Users/edgar/Desktop/Curso%20Oracle/4-Challenge-ForoHub/src/main/java/ForoHub/Infrastructure/SecurityConfigurations.java. Output:
+
+2026.03.04 12:14:58 INFO  no build target found for C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\main\java\ForoHub\Infrastructure\SecurityConfigurations.java. Using fallback presentation compiler.
+2026.03.04 12:14:58 INFO  no build target found for C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\main\java\ForoHub\Infrastructure\SecurityConfigurations.java. Using fallback presentation compiler.
+2026.03.04 12:14:59 INFO  no build target found for C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\main\java\ForoHub\Infrastructure\SecurityConfigurations.java. Using fallback presentation compiler.
+2026.03.04 12:14:59 WARN  no build target for: C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\main\java\ForoHub\Infrastructure\SecurityFilter.java
+2026.03.04 12:14:58 WARN  Running javac-semanticdb failed for file:///C:/Users/edgar/Desktop/Curso%20Oracle/4-Challenge-ForoHub/src/main/java/ForoHub/Infrastructure/SecurityFilter.java. Output:
+
+2026.03.04 12:14:59 INFO  no build target found for C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\main\java\ForoHub\Infrastructure\SecurityFilter.java. Using fallback presentation compiler.
+2026.03.04 12:14:59 INFO  no build target found for C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\main\java\ForoHub\Infrastructure\SecurityFilter.java. Using fallback presentation compiler.
+2026.03.04 12:14:59 INFO  no build target found for C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\main\java\ForoHub\Infrastructure\SecurityFilter.java. Using fallback presentation compiler.
+2026.03.04 12:17:12 WARN  no build target for: C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\main\java\ForoHub\Controller\AutenticacionController.java
+2026.03.04 12:17:12 INFO  no build target found for C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\main\java\ForoHub\Controller\AutenticacionController.java. Using fallback presentation compiler.
+2026.03.04 12:17:12 WARN  Running javac-semanticdb failed for file:///C:/Users/edgar/Desktop/Curso%20Oracle/4-Challenge-ForoHub/src/main/java/ForoHub/Controller/AutenticacionController.java. Output:
+
+2026.03.04 12:17:13 INFO  no build target found for C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\main\java\ForoHub\Controller\AutenticacionController.java. Using fallback presentation compiler.
+2026.03.04 12:17:22 INFO  no build target found for C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\main\java\ForoHub\Controller\AutenticacionController.java. Using fallback presentation compiler.
+2026.03.04 12:17:23 INFO  no build target found for C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\main\java\ForoHub\Controller\AutenticacionController.java. Using fallback presentation compiler.
+2026.03.04 12:17:24 INFO  no build target found for C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\main\java\ForoHub\Controller\AutenticacionController.java. Using fallback presentation compiler.
+2026.03.04 12:17:24 WARN  no build target for: C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\main\java\ForoHub\Controller\TopicoController.java
+2026.03.04 12:17:24 INFO  no build target found for C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\main\java\ForoHub\Controller\TopicoController.java. Using fallback presentation compiler.
+2026.03.04 12:17:23 WARN  Running javac-semanticdb failed for file:///C:/Users/edgar/Desktop/Curso%20Oracle/4-Challenge-ForoHub/src/main/java/ForoHub/Controller/TopicoController.java. Output:
+
+2026.03.04 12:17:24 INFO  no build target found for C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\main\java\ForoHub\Controller\TopicoController.java. Using fallback presentation compiler.
+2026.03.04 12:17:25 INFO  no build target found for C:\Users\edgar\Desktop\Curso Oracle\4-Challenge-ForoHub\src\main\java\ForoHub\Controller\TopicoController.java. Using fallback presentation compiler.
+2026.03.04 12:18:18 INFO  Shutting down server
+2026.03.04 12:18:18 INFO  Memory monitor stopped
+2026.03.04 12:18:18 INFO  shutting down Metals
+2026.03.04 12:18:18 INFO  Exiting server
